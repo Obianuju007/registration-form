@@ -124,6 +124,13 @@ input {
 }
 
 @media only screen and (max-width: 395px) {
+    body { 
+        background-image: url('images/bg-intro-mobile.png');
+        background-position: center;
+        background-size: cover;
+        position: relative;
+        background-repeat: no-repeat;
+}
     #top {
         padding: 15px;
     }
