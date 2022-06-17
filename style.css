@@ -99,6 +99,7 @@ input {
 
 .form {
     padding-top: 25px;
+    -webkit-appearance: none;
 }
 
 .form #bottom {
