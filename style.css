@@ -176,8 +176,8 @@ input {
         align-items: center;
     }
 }   main .container .slide2 form #bottom {
-        padding:20px;
-        border-radius: 5px;
+        padding:10px;
+        border-radius: 0px;
 }
 
 footer {
