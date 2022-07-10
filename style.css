@@ -103,10 +103,10 @@ input {
 }
 
 .form #bottom {
-    width: 87%;
+    width: 85%;
     color: white;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 10px;
     border: 0px;
     padding-top: 10px;
     background-color: hsl(154, 59%, 51%);
