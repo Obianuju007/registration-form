@@ -124,7 +124,7 @@ input {
     color: rgba(0, 0, 0, 0.514);
 }
 
-@media only screen and (max-width: 395px) {
+@media only screen and (max-width: 375px) {
     body { 
         background-image: url('images/bg-intro-mobile.png');
         background-position: center;
