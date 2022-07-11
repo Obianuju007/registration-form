@@ -177,10 +177,11 @@ input {
         justify-content: center;
         align-items: center;
     }
-}   main .container .slide2 form #bottom {
+}   
+/* main .container .slide2 form #bottom {
         padding:10px;
         border-radius: 0px;
-}
+}*/
 
 footer {
     text-align: center;
